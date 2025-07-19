@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router';
-import image from '../assets/model.png'
+import modelImage from '../assets/model.png'
 
 
 function Signup() {
@@ -8,7 +8,7 @@ function Signup() {
     <>
       <div className=" signuppage d-flex">
         <div className="">
-          <img src={image} className="img-fluid rounded-start model" alt="model" style={{}}/>
+          <img src={modelImage} className="img-fluid rounded-start model" alt="model" style={{}}/>
         </div>
 
         <div className=' container'>
