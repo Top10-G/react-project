@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router';
-import modelImage from '../assets/model.png'
+import modelImage from '../assets/Model.png'
 
 
 function Signup() {
