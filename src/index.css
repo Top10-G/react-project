@@ -1,0 +1,66 @@
+body{
+  overflow-x: hidden;
+  background-color: #f3f6f8;
+}
+
+td{
+  color:#6A7E8A !important;
+}
+
+th{
+  color:#013C61 !important;
+}
+
+.navbar, .sidebar, .joshbanner{
+  background-color: #FFFFFF;
+}
+
+.circle{
+  background-color: #6A7E8A;
+  padding: 15px;
+  border-radius: 55%;
+  margin-right: 7px;
+}
+
+
+table, th, td{
+  padding: 9px !important;
+  margin-top: 10px;
+  
+}
+
+#inputfield, span{
+  outline: 0;
+  border-width: 0 0 2px !important;
+}
+
+.input-group-text{
+  background-color:white;
+}
+
+.signupbtn{
+  justify-items: end;
+}
+
+.model{
+  border-radius: 0px;
+  height: 100vh;
+  width: 70vw;
+  
+}
+
+.signuppage{
+  background-color: #f3f6f8;
+  border: 0;
+  height: max-content;
+}
+
+.supform{
+  height: 430px;
+  margin-top: 30px;
+  padding-top: 50px !important;
+}
+
+.tablediv{
+  margin-right: 55px;
+}
