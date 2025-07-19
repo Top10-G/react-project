@@ -8,7 +8,7 @@ function Signup() {
     <>
       <div className=" signuppage d-flex">
         <div className="">
-          <img src={image} className="img-fluid rounded-start model" alt="" style={{}}/>
+          <img src={image} className="img-fluid rounded-start model" alt="model" style={{}}/>
         </div>
 
         <div className=' container'>
